@@ -1,0 +1,9 @@
+Ignacio Poltarak - Matias Fleita - Mia Aguirre
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+A) En testing quedó el color azul en el fondo.
+B) En desarrollo quedó el color amarillo en el fondo.
+C) En el main quedó el color azul en el fondo.
+D) El main tiene el favicon de Alfa.

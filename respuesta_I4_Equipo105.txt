@@ -7,3 +7,17 @@ A) En testing quedó el color azul en el fondo.
 B) En desarrollo quedó el color amarillo en el fondo.
 C) En el main quedó el color azul en el fondo.
 D) El main tiene el favicon de Alfa.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+E) Gamma tuvo problemas para hacer el push, Alfa lo hizo sin problemas y Beta guardó primero el cambio de Alfa para despues hacer el push.
+F) Git no te permite hacer un push si tu version del repositorio no esta actualizado como el de github.
+G) Nosotros optamos por usar git pull para actualizar nuestra version, y de ahí agregar nuestros datos, pero investigando tambien se podria hacer merge de las diferentes versiones, lo cual podria ser muy util sí hay varias cosas que se tengan que agregar en diferentes lados.
+H) El push -f lo que hace es sobreescribir los cambios que haya hecho el miembro anterior, así que por ejemplo, si Alfa hace el push Y Beta hace push -f, git ignorará usará el repositorio desactualizado de Beta y solo añadirá sus cambios, esto puede llegar a ser muy destructivo.
+I) push -f NO te permite que los 3 nombres queden en el index, no sin antes actualizarlo. Por lo que o lo actualizas de ante mano como por ejemplo un pull, o haces un merge.
